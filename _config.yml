@@ -13,7 +13,8 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: MAGDEV
-  tagline: prev Editor, curr Developer
+  tagline: prev Editor
+  curr Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
